@@ -1,0 +1,15 @@
+C:\Users\frez\source\repos\FrezQuestGame\FrezQuestGame\bin\Debug\net6.0\FrezQuestGame.exe
+C:\Users\frez\source\repos\FrezQuestGame\FrezQuestGame\bin\Debug\net6.0\FrezQuestGame.deps.json
+C:\Users\frez\source\repos\FrezQuestGame\FrezQuestGame\bin\Debug\net6.0\FrezQuestGame.runtimeconfig.json
+C:\Users\frez\source\repos\FrezQuestGame\FrezQuestGame\bin\Debug\net6.0\FrezQuestGame.dll
+C:\Users\frez\source\repos\FrezQuestGame\FrezQuestGame\bin\Debug\net6.0\FrezQuestGame.pdb
+C:\Users\frez\source\repos\FrezQuestGame\FrezQuestGame\obj\Debug\net6.0\FrezQuestGame.csproj.AssemblyReference.cache
+C:\Users\frez\source\repos\FrezQuestGame\FrezQuestGame\obj\Debug\net6.0\FrezQuestGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frez\source\repos\FrezQuestGame\FrezQuestGame\obj\Debug\net6.0\FrezQuestGame.AssemblyInfoInputs.cache
+C:\Users\frez\source\repos\FrezQuestGame\FrezQuestGame\obj\Debug\net6.0\FrezQuestGame.AssemblyInfo.cs
+C:\Users\frez\source\repos\FrezQuestGame\FrezQuestGame\obj\Debug\net6.0\FrezQuestGame.csproj.CoreCompileInputs.cache
+C:\Users\frez\source\repos\FrezQuestGame\FrezQuestGame\obj\Debug\net6.0\FrezQuestGame.dll
+C:\Users\frez\source\repos\FrezQuestGame\FrezQuestGame\obj\Debug\net6.0\refint\FrezQuestGame.dll
+C:\Users\frez\source\repos\FrezQuestGame\FrezQuestGame\obj\Debug\net6.0\FrezQuestGame.pdb
+C:\Users\frez\source\repos\FrezQuestGame\FrezQuestGame\obj\Debug\net6.0\FrezQuestGame.genruntimeconfig.cache
+C:\Users\frez\source\repos\FrezQuestGame\FrezQuestGame\obj\Debug\net6.0\ref\FrezQuestGame.dll
