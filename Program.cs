@@ -8,7 +8,7 @@ Hero id001 = new Hero("Hawai", 100);
 Dragon id002 = new Dragon("Smaug", 300);
 Dragon id003 = new Dragon("Pizduk", 10);
 double firstAttack = id001.Bite();
-double secondAttack = id002.Incinerate(id001);
+double secondAttack = id002.Incinerate();
 id003.TakeDamage(firstAttack);
 if (id003.HP <= 0)
 {
